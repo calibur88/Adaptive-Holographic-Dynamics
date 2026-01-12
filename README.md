@@ -8,6 +8,10 @@
 个人研究爱好者。不打算寻求机构背书，特在此发布。论文将分阶段提交。  
 Independent researcher. Not seeking institutional endorsement, this work is published here. The paper will be submitted in stages.
 
+# 基本框架(Basic framework)
+[MEF-理论框架与收敛性分析](./MEF-理论框架与收敛性分析.md)  
+[MEF-Theoretical-Framework-and-Convergence-Analysis](./MEF-Theoretical-Framework-and-Convergence-Analysis.md)
+
 # 宇宙模型(Universe model)
 [自参考量子通道：涌现宇宙学的概念框架](./自参考量子通道：涌现宇宙学的概念框架.md)  
 [self-referential-quantum-channels-emergent-cosmology](./self-referential-quantum-channels-emergent-cosmology.md)
