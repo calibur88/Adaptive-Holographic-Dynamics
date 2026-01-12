@@ -1,8 +1,6 @@
 # Self-Referential Quantum Channels: A Conceptual Framework for Emergent Cosmology
 
-[calibur]
-
-Independent Researcher, China
+[calibur]Independent Researcher, China
 
 ---
 
