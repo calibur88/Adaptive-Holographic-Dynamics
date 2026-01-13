@@ -239,4 +239,4 @@ The ADIF framework provides a four-layer classification lineage for iterative al
 
 ## Conflict of Interest Statement
 
-The author acknowledges that this paper does not produce original innovation and is primarily a systematic organization of existing methods. No commercial interests are involved.
+No commercial interests are involved.
