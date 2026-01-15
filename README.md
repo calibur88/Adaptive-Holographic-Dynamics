@@ -106,6 +106,3 @@ It is recommended to read in the following order to understand the logical flow 
 | **邮箱 / Email**: jiuxin303@qq.com | **Email**: jiuxin303@qq.com |
 
 ---
-
-> **提示**：本文档采用中英对照格式，便于全球研究者阅读。如需要纯中文或纯英文版本，请参考项目中的其他文档。  
-> **Note**: This document uses a bilingual format for global researchers. For pure Chinese or English versions, please refer to other documents in the project.
